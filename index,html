@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+<div class="main">
+  <h1>Team D-27</h1>
+  <div class="container">
+    <ul class="gallery">
+      <li>
+        <a href="#gambar-1">
+          <img src="../img/thumbs/cap.jpg" alt="peserta1">
+          <span>Firman</span>
+        </a>
+      <div class="overlay" id="gambar-1">
+        <a href="#" class="close">x close</a>
+        <img src="../img/full/cap.jpg" alt="peserta1">
+        <p class="profil">PROFIL <br> Nama : Firman Firdaus <br>Domisili : Serang <br>Umur : 29 tahun </p>
+      </div>
+      </li>
+
+        <li>
+        <a href="#gambar-2">
+          <img src="../img/thumbs/user.jpg" alt="peserta2">
+          <span>Fadlan</span>
+        </a>
+
+        <div class="overlay" id="gambar-2">
+          <a href="#" class="close">x close</a>
+          <img src="../img/full/user.jpg" alt="peserta2">
+          <p class="profil">PROFIL <br> Nama : Fadlan<br>Domisili : Purwakarta <br>Umur : 19 tahun</p>
+        </div>
+      </li>
+
+      <li>
+        <a href="#gambar-3">
+          <img src="../img/thumbs/user.jpg" alt="peserta3">
+          <span>Faliqul</span>
+        </a>
+
+        <div class="overlay" id="gambar-3">
+          <a href="#" class="close">x close</a>
+          <img src="../img/full/user.jpg" alt="peserta3">
+            <p class="profil">PROFIL <br> Nama : Faliqul Fikri <br>Domisili : Purwakarta <br></p>
+        </div>
+      </li>
+
+      <li>
+        <a href="#gambar-4">
+          <img src="../img/thumbs/user.jpg" alt="peserta4">
+          <span>Ghazy</span>
+        </a>
+
+        <div class="overlay" id="gambar-4">
+          <a href="#" class="close">x close</a>
+          <img src="../img/full/user.jpg" alt="peserta4">
+          <p class="profil">PROFIL <br> Nama : Ghazy Irfan <br>Domisili : Bekasi <br>Umur : 22 tahun </  p>
+        </div>
+      </li>
+
+      <li>
+        <a href="#gambar-5">
+          <img src="../img/thumbs/user.jpg" alt="peserta5">
+          <span>Rama</span>
+        </a>
+
+        <div class="overlay" id="gambar-5">
+          <a href="#" class="close">x close</a>
+          <img src="../img/full/user.jpg" alt="peserta5">
+          <p class="profil">PROFIL <br> Nama : Gusti Rama <br>Domisili : Bali <br>Umur : 23 tahun </p>
+        </div>
+      </li>
+      <div class="clear"></div>
+    </ul>
+    <p class="nb">* klik icon untuk melihat profil peserta</p>
+  </div>
+</div>
+</body>
+</html>
